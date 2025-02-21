@@ -1,26 +1,316 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack development projects, focusing on Vue.js, React.js, and Laravel.<br>👯 I’m looking to collaborate on innovative web applications and system architecture.<br>🤝 I’m looking for help with API integrations and scaling web platforms.<br>🌱 I’m currently learning headless technologies and advanced backend techniques.<br>💬 Ask me about full-stack development, especially frontend frameworks and backend architectures.<br>⚡ Fun fact: I love exploring how different technologies can solve complex real-world problems!<br><br>Feel free to check out more on my GitHub.
+# Hi there, I'm Md. Motakabbir Morshed! 👋
+![Header Banner](https://mmorshed.me/images/header-banner.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Motakabbir&color=green)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dolar_0016533f) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dolar0016) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/morshed.dolar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dolarmotakabbir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/motakabbir-morshed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dolardx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dolardx) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Motakabbir-Morshed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Purple_Diamond_2269) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/motakabbir-morshed-dolar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Motakabbir16279) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@morshed0) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Motakabbir-Morshed) 
+Welcome to my GitHub profile! I'm a passionate Senior Software Engineer with over 10+ years of Full-Stack development experience. My expertise lies in developing scalable solutions for e-governance, university automation, e-commerce, and ISP ERP.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat-square&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat-square&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat-square) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=flat-square) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Motakabbir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Motakabbir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Motakabbir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔭 What I'm Currently Working On
+- Building innovative web applications using Vue.js, TypeScript, and other modern frameworks.
+- Developing comprehensive ERP solutions and scalable APIs.
+- Contributing to open-source projects related to web development and AI.
+
+## 🌱 What I'm Learning
+- Advanced concepts in machine learning and AI.
+- Enhancing my knowledge of cloud computing and containerization.
+- Experimenting with new JavaScript frameworks and libraries.
+
+## 💬 Ask Me About
+- Web development (Vue.js, TypeScript, JavaScript)
+- Backend development (Laravel, PHP, MySQL)
+- Open-source contributions
+- Cloud computing (AWS, Azure, Google Cloud)
+- DevOps practices (Docker, Kubernetes, Jenkins)
+
+## 📫 How to Reach Me
+- Email: [dolardx@gmail.com](mailto:dolardx@gmail.com)
+- LinkedIn: [Motakabbir Morshed](https://linkedin.com/in/motakabbir-morshed)
+- GitHub: [Motakabbir](https://github.com/Motakabbir)
+- Twitter: [@Motakabbir16279](https://twitter.com/Motakabbir16279)
+- Discord: [dolar0016](https://discord.gg/dolar0016)
+
+## ⚡ Fun Fact
+I love solving puzzles and playing chess in my free time. It helps me think strategically and improves my problem-solving skills.
+
+## 📜 About Me
+- **Location:** Dhaka, Bangladesh
+- **Address:** Rayer Bazar, Dhaka
+- **Phone:** +880 1771882876, +880 1971882876, +880 1956602631
+- **Nationality:** Bangladeshi
+- **Languages:** Bengali (High), English (Medium)
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Other Skills
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-FF9B00?style=flat-square&logo=kanban&logoColor=white)
+
+## 📚 Blog Categories
+
+- [Artificial Intelligence](https://mmorshed.me/blog/category/Artificial%20Intelligence)
+- [Web Development](https://mmorshed.me/blog/category/Web%20Development)
+- [Cloud Computing](https://mmorshed.me/blog/category/Cloud%20Computing)
+- [DevOps](https://mmorshed.me/blog/category/DevOps)
+- [Cybersecurity](https://mmorshed.me/blog/category/Cybersecurity)
+- [Programming Languages](https://mmorshed.me/blog/category/Programming%20Languages)
+- [Mobile Development](https://mmorshed.me/blog/category/Mobile%20Development)
+- [Software Architecture](https://mmorshed.me/blog/category/Software%20Architecture)
+- [Data Science](https://mmorshed.me/blog/category/Data%20Science)
+- [Machine Learning](https://mmorshed.me/blog/category/Machine%20Learning)
+- [Game Development](https://mmorshed.me/blog/category/Game%20Development)
+- [UI/UX Design](https://mmorshed.me/blog/category/UI/UX%20Design)
+- [Open Source](https://mmorshed.me/blog/category/Open%20Source)
+- [Software Testing](https://mmorshed.me/blog/category/Software%20Testing)
+- [Blockchain Development](https://mmorshed.me/blog/category/Blockchain%20Development)
+- [Backend Development](https://mmorshed.me/blog/category/Backend%20Development)
+- [Frontend Development](https://mmorshed.me/blog/category/Frontend%20Development)
+- [Full Stack Development](https://mmorshed.me/blog/category/Full%20Stack%20Development)
+- [IoT (Internet of Things)](https://mmorshed.me/blog/category/IoT%20(Internet%20of%20Things))
+- [Big Data](https://mmorshed.me/blog/category/Big%20Data)
+- [API Development](https://mmorshed.me/blog/category/API%20Development)
+- [Quantum Computing](https://mmorshed.me/blog/category/Quantum%20Computing)
+- [Low-Code/No-Code Development](https://mmorshed.me/blog/category/Low-Code/No-Code%20Development)
+- [Embedded Systems](https://mmorshed.me/blog/category/Embedded%20Systems)
+- [Tech Trends](https://mmorshed.me/blog/category/Tech%20Trends)
+- [Agile & Scrum](#)
+- [Software Engineering Career](https://mmorshed.me/blog/category/Software%20Engineering%20Career)
+- [AI Ethics](https://mmorshed.me/blog/category/AI%20Ethics)
+- [Tech Entrepreneurship](https://mmorshed.me/blog/category/Tech%20Entrepreneurship)
+
+## 📊 GitHub Stats
+
+![Motakabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Motakabbir&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Motakabbir&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motakabbir)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/motakabbir)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@motakabbir)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://motakabbir.dev)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/motakabbir)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blockchain and Web3](https://mmorshed.me/blog/blockchain-and-web3)
+- [Building REST APIs with Node.js](https://mmorshed.me/blog/building-rest-apis-with-nodejs)
+- [Cybersecurity and AI](https://mmorshed.me/blog/cybersecurity-and-ai)
+- [Edge Computing](https://mmorshed.me/blog/edge-computing)
+- [Ethical AI](https://mmorshed.me/blog/ethical-ai)
+- [Future of 5G](https://mmorshed.me/blog/future-of-5g)
+- [Getting Started with Docker](https://mmorshed.me/blog/getting-started-with-docker)
+- [Green Tech](https://mmorshed.me/blog/green-tech)
+- [Introduction to AI and Machine Learning](https://mmorshed.me/blog/introduction-to-ai-and-machine-learning)
+- [Introduction to React Hooks](https://mmorshed.me/blog/introduction-to-react-hooks)
+- [IoT and Smart Devices](https://mmorshed.me/blog/iot-and-smart-devices)
+- [Rise of Quantum Computing](https://mmorshed.me/blog/rise-of-quantum-computing)
+- [Robotics and Automation](https://mmorshed.me/blog/robotics-and-automation)
+- [Understanding Git and GitHub](https://mmorshed.me/blog/understanding-git-and-github)
+<!-- BLOG-POST-LIST:END -->
+
+## 🏆 Achievements
+
+- **Open Source Contributions**: Contributed to multiple high-profile open-source projects.
+- **Hackathons**: Won several hackathons including [Hackathon Name].
+- **Certifications**: AWS Certified Solutions Architect, Google Cloud Professional Data Engineer.
+
+## 📝 Projects
+
+### Project 1: [Leaps - Unified Government Services Platform](https://github.com/Motakabbir/portfolio)
+**Description**: A centralized platform for streamlining BARMM government services, enhancing efficiency, transparency, and accessibility for citizens and government officials.  
+**Technologies Used**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+### Project 2: [Gambia Government Services Platform](https://github.com/Motakabbir/portfolio)
+**Description**: A centralized platform for streamlining Gambia government services, enhancing efficiency, transparency, and accessibility for citizens and government officials.  
+**Technologies Used**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+### Project 3: [University Service Automation](https://github.com/Motakabbir/portfolio)
+**Description**: A digital service automation platform for universities, streamlining student services, academic processes, and administrative tasks.  
+**Technologies Used**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+### Project 4: [Readyeshop - E-Commerce Platform](https://github.com/Motakabbir/portfolio)
+**Description**: A powerful e-commerce platform enabling entrepreneurs and businesses to launch and manage online stores with ease.  
+**Technologies Used**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+### Project 5: [MyBilling - ISP ERP System](https://github.com/Motakabbir/portfolio)
+**Description**: A comprehensive ERP system designed to streamline ISP operations, from billing to client management, integrating key services like SMS and payment gateways.  
+**Technologies Used**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+### Project 6: [Complaint Management System](https://github.com/Motakabbir/portfolio)
+**Description**: A comprehensive system to manage customer complaints, streamline resolutions, and enhance customer satisfaction.  
+**Technologies Used**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white), ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Repo Stars](https://img.shields.io/github/stars/Motakabbir/portfolio?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/Motakabbir/portfolio?style=flat-square)
+
+## 🎯 Goals for 2025
+
+- Contribute to more open-source projects.
+- Learn and master new technologies like blockchain and quantum computing.
+- Collaborate with other developers to create impactful software solutions.
+- Write technical blogs to share knowledge with the community.
+- Mentor junior developers and help them grow in their careers.
+
+## 🧑‍💻 Work Experience
+
+### Software Engineer at [Company Name]
+**Duration**: January 2023 - Present  
+**Responsibilities**:
+- Developed and maintained web applications using React and Node.js.
+- Implemented CI/CD pipelines using GitHub Actions.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized application performance and scalability.
+
+### Junior Developer at [Company Name]
+**Duration**: June 2021 - December 2022  
+**Responsibilities**:
+- Assisted in the development of mobile applications using Flutter.
+- Performed code reviews and provided constructive feedback.
+- Participated in agile ceremonies and contributed to sprint planning.
+- Troubleshot and resolved software defects and issues.
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science
+**University Name**: [University Name]  
+**Graduation Year**: 2021  
+**Relevant Courses**: Data Structures and Algorithms, Operating Systems, Database Systems, Machine Learning
+
+## 🌐 Open Source Contributions
+
+- **Leaps - Unified Government Services Platform**: [View Contribution](https://github.com/Motakabbir/portfolio)
+- **Gambia Government Services Platform**: [View Contribution](https://github.com/Motakabbir/portfolio)
+- **University Service Automation**: [View Contribution](https://github.com/Motakabbir/portfolio)
+- **Readyeshop - E-Commerce Platform**: [View Contribution](https://github.com/Motakabbir/portfolio)
+- **MyBilling - ISP ERP System**: [View Contribution](https://github.com/Motakabbir/portfolio)
+- **Complaint Management System**: [View Contribution](https://github.com/Motakabbir/portfolio)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Motakabbir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Motakabbir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Motakabbir&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏅 Certifications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Web App Development - .NET**
+- **Web Design**
+- **PHP & SQL**
+- **Web Development Certification**
+-**OWASP API Security Top 10**
+- **Securing API Servers**
+- **Gateway Security Best Practices**
+- **API Security Fundamentals**
+- **API Security for Connected Cars and Fleets**
+- **API Authentication**
+- **API Documentation Best Practices**
+- **Scrum Fundamentals Certified**
+- **Scrum for Ops and DevOps Fundamentals Certified**
+- **Six Sigma Yellow Belt**
+
+## 🗣️ Testimonials
+
+> "Motakabbir is a highly skilled developer with a great work ethic. He consistently delivers high-quality code and is a pleasure to work with." - [Colleague's Name]
+
+> "I had the pleasure of working with Motakabbir on several projects. His expertise and dedication are truly commendable." - [Manager's Name]
+
+## 🎤 Speaking Engagements
+
+- **Tech Conference 2024**: Presented a talk on "Advanced Machine Learning Techniques"
+- **DevFest 2023**: Conducted a workshop on "Building Scalable Web Applications with Node.js and React"
+- **Open Source Summit 2022**: Panelist on "The Future of Open Source Contributions"
+
+## 🌱 Personal Interests
+
+- **Chess**: Enjoy playing chess and participating in local tournaments.
+- **Hiking**: Love exploring nature trails and hiking in the mountains.
+- **Photography**: Passionate about landscape and wildlife photography.
+- **Traveling**: Love traveling and exploring new cultures and cuisines.
+
+## 🖥️ Development Setup
+
+- **OS**: Windows
+- **Editor**: Visual Studio Code
+- **Terminal**: powershell
+- **Shell**: powershell
+- **Browser**: Google Chrome
+
+## 🏅 Awards & Honors
+
+- **Top Contributor**: Recognized as a top contributor in several open-source projects.
+
+## 💬 Languages
+
+- **Bangla**: Native
+- **English**: Intermediate
+- **Hindi**: Basic
+
+## ☕ Support Me
+
+If you like my work, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/motakabbir)
+
+## 💖 Sponsors
+
+A big thank you to these amazing sponsors! Your support helps me keep working on open-source projects.
+
+[![Sponsor](https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/motakabbir)
+
+---
+
+⭐️ From [Motakabbir](https://github.com/Motakabbir)
