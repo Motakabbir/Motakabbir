@@ -134,11 +134,11 @@ I love solving puzzles and playing chess in my free time. It helps me think stra
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motakabbir)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/motakabbir)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@motakabbir)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://motakabbir.dev)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/motakabbir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motakabbir-morshed)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Motakabbir16279)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dolardx)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://mmorshed.me)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/motakabbir_morshed_efec2a)
 
 ## 📚 Latest Blog Posts
 
