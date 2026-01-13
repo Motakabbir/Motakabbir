@@ -58,6 +58,40 @@ certifications:
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Active Projects
+
+| Project | Progress | Status |
+|---------|----------|--------|
+| E-Gov Platform v3.0 | ![](https://geps.dev/progress/85?dangerColor=ff6b35&warningColor=fbbf24&successColor=38bdf8) | 🔥 Hot |
+| University Automation | ![](https://geps.dev/progress/70?dangerColor=ff6b35&warningColor=fbbf24&successColor=38bdf8) | ⚡ Active |
+| AI Integration Module | ![](https://geps.dev/progress/45?dangerColor=ff6b35&warningColor=fbbf24&successColor=38bdf8) | 🛠️ Building |
+| Cloud Migration | ![](https://geps.dev/progress/30?dangerColor=ff6b35&warningColor=fbbf24&successColor=38bdf8) | 📋 Planning |
+
+</td>
+<td width="50%">
+
+### 📚 Currently Exploring
+
+```text
+Generative AI       ████████████████░░░░   80%
+Rust                ██████████░░░░░░░░░░   50%
+Web3 & Blockchain   ████████░░░░░░░░░░░░   40%
+Microservices       ██████████████████░░   90%
+System Design       █████████████████░░░   85%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
 <details open>
@@ -202,11 +236,11 @@ certifications:
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Motakabbir&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Motakabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Motakabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Motakabbir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Motakabbir&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=38bdf8&ring=38bdf8&fire=FF6B35&currStreakLabel=38bdf8"/>
 </p>
 
 <p align="center">
@@ -215,10 +249,49 @@ certifications:
 
 ---
 
-## 🏆 &nbsp;Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="28" /> &nbsp;Recent Activity
+
+<table>
+<tr>
+<td width="60%">
+
+### 📊 Contribution Timeline
+
+<a href="https://github.com/Motakabbir">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motakabbir&theme=tokyonight" width="100%" alt="Profile Details"/>
+</a>
+
+</td>
+<td width="40%">
+
+### ⚡ Latest Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Pushed new features to E-Gov Platform
+2. 💻 Improved University Automation System
+3. 🔧 Fixed critical bugs in production
+4. 📝 Updated API documentation
+5. ⭐ Explored AI integration patterns
+<!--END_SECTION:activity-->
+
+> 💡 *Updates via [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme)*
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motakabbir&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motakabbir&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Motakabbir&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=gruvbox" alt="GitHub Trophies"/>
 </p>
 
 ---
