@@ -2,8 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Md.%20Motakabbir%20Morshed&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Lead%20Software%20Engineer%20%7C%20System%20Architect&descAlign=50&descAlignY=64" alt="Hero banner"/>
 
-<h1>Md. Motakabbir Morshed</h1>
-<p>Lead Software Engineer & System Architect shaping resilient digital services for governments, universities, and enterprises.</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=10%2B+Years+of+Full-Stack+Development+Experience;Expert+in+Vue.js%2C+React%2C+Laravel+%26+Cloud;Building+Scalable+Solutions+for+E-Gov+%26+Enterprise" alt="Typing SVG" />
+</a>
+
+<p>👉 Lead Software Engineer & System Architect shaping resilient digital services for governments, universities, and enterprises.</p>
 
 <p>
   <a href="https://mmorshed.me"><img src="https://img.shields.io/badge/Portfolio-mmorshed.me-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge"/></a>
