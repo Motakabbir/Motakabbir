@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://mmorshed.me"><img src="https://img.shields.io/badge/Portfolio-mmorshed.me-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/motakabbir-morshed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/motakabbir-morshed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dolardx@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/Motakabbir16279"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.upwork.com/freelancers/~01865515acfc0df114"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
@@ -306,14 +306,15 @@ System Design       █████████████████░░░
 ### ⚡ Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed new features to E-Gov Platform
-2. 💻 Improved University Automation System
-3. 🔧 Fixed critical bugs in production
-4. 📝 Updated API documentation
-5. ⭐ Explored AI integration patterns
+1. � Published "Green Technology: Innovations for a Sustainable Future"
+2. 🤖 Explored "Ethical AI: Challenges and Considerations"
+3. 💻 Discussed "Edge Computing: The Future of Data Processing"
+4. 🌐 Covered "The Growth of IoT and Smart Devices"
+5. 🤖 Analyzed "The Role of Robotics in Automation"
+6. 🕶️ Explored "The Evolution of Augmented Reality (AR) and Virtual Reality (VR)"
 <!--END_SECTION:activity-->
 
-> 💡 *Updates via [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme)*
+> 💡 *Updates from portfolio blog*
 
 </td>
 </tr>
@@ -343,7 +344,7 @@ System Design       █████████████████░░░
     <a href="mailto:dolardx@gmail.com"><img src="https://img.shields.io/badge/📧_Email-dolardx@gmail.com-EA4335?style=for-the-badge" alt="Email"/></a>
   </p>
   <p>
-    <a href="https://linkedin.com/in/motakabbir-morshed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/motakabbir-morshed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://twitter.com/Motakabbir16279"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://facebook.com/morshed.dolar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
     <a href="https://discord.gg/dolar0016"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
