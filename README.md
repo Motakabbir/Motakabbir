@@ -33,26 +33,36 @@
 
 ```yaml
 name: Md. Motakabbir Morshed
-role: Lead Software Engineer
+role: Lead Software Engineer & System Architect
 location: Dhaka, Bangladesh
 company: Orange Business Development Ltd
+email: dolardx@gmail.com
+website: mmorshed.me
 
 experience:
   years: 10+
   projects: 250+
   clients: 170+
+  teams_led: 15+
 
-expertise:
-  - E-Governance Solutions
-  - University Automation
-  - E-Commerce Platforms
-  - ISP ERP Systems
-  - System Architecture
+specializations:
+  - E-Governance & Digital Transformation
+  - Enterprise System Architecture
+  - University Automation & Academic Systems
+  - E-Commerce & Payment Solutions
+  - ISP ERP & Billing Systems
+  - Cloud Infrastructure & DevOps
 
 certifications:
   - AWS Certified Developer Associate
   - AWS Cloud Solutions Architect
   - TOGAF Enterprise Architecture
+  - Certified Scrum Master (CSM)
+
+philosophy: |
+  "Building scalable, secure, and innovative solutions
+   that transform how governments and enterprises serve
+   their communities."
 ```
 
 <br clear="both"/>
@@ -85,6 +95,48 @@ Rust                ██████████░░░░░░░░░░
 Web3 & Blockchain   ████████░░░░░░░░░░░░   40%
 Microservices       ██████████████████░░   90%
 System Design       █████████████████░░░   85%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Skills" width="28" /> &nbsp;Core Competencies
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Technical Leadership
+```text
+Team Management       ████████████████████   100%
+System Architecture   ███████████████████░    95%
+Code Review           ████████████████████   100%
+Mentoring            ██████████████████░░    90%
+```
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Full-Stack Development
+```text
+Vue.js/Nuxt.js       ████████████████████   100%
+Laravel/PHP          ████████████████████   100%
+React/Next.js        ██████████████████░░    90%
+Node.js/Express      ██████████████████░░    90%
+```
+
+</td>
+<td width="34%" align="center">
+
+### ☁️ Cloud & DevOps
+```text
+AWS Services         ███████████████████░    95%
+Docker/Kubernetes    ██████████████████░░    90%
+CI/CD Pipelines      ██████████████████░░    90%
+System Design        ███████████████████░    95%
 ```
 
 </td>
@@ -204,6 +256,23 @@ System Design       █████████████████░░░
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Highlights" width="28" /> &nbsp;Career Highlights
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
+|:--------------|:---------|:-----------|
+| **Led Digital Transformation** | Deployed e-governance platforms serving 500K+ citizens | 2020-Present |
+| **Architected University Systems** | Automated academic processes for 10+ institutions | 2018-2023 |
+| **Built ISP ERP Solution** | Streamlined operations for 50+ ISP companies | 2017-2022 |
+| **E-Commerce Platform Development** | Enabled 1000+ businesses to launch online stores | 2019-2024 |
+| **Cloud Migration Projects** | Migrated 30+ enterprise systems to AWS/Azure | 2021-Present |
+| **Team Leadership** | Built and mentored teams of 15+ engineers | 2016-Present |
+
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
 <table>
@@ -271,6 +340,136 @@ System Design       █████████████████░░░
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="OpenSource" width="28" /> &nbsp;Open Source Contributions
+
+<div align="center">
+
+### 🌟 Contributing to the Developer Community
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔧 Project Contributions
+
+- **Laravel Ecosystem**
+  - 📦 Custom packages for government authentication
+  - 🔐 Security middleware implementations
+  - 📝 Documentation improvements
+
+- **Vue.js/Nuxt.js Community**
+  - 🎨 UI component libraries
+  - ⚡ Performance optimization patterns
+  - 🛠️ Build tool configurations
+
+- **DevOps Tools**
+  - 🐳 Docker compose templates for development
+  - ⚙️ CI/CD pipeline examples
+  - 📊 Monitoring and logging solutions
+
+</td>
+<td width="50%">
+
+#### 🤝 Community Involvement
+
+- **Technical Writing**
+  - ✍️ Published 25+ technical articles on Medium
+  - 📚 Documentation for e-governance systems
+  - 🎓 Tutorial series on full-stack development
+
+- **Mentorship & Teaching**
+  - 👨‍🏫 Mentored 25+ junior developers
+  - 🎯 Code review for open source projects
+  - 💡 Technical consultation for startups
+
+- **Public Repositories**
+  - 🔓 20+ public repositories on GitHub
+  - ⭐ Active maintenance and issue resolution
+  - 🔄 Regular updates and improvements
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Contribution Statistics
+
+| Metric | Count | Impact |
+|:-------|:------|:-------|
+| 🔀 **Pull Requests** | 150+ | Merged across various projects |
+| 🐛 **Issues Resolved** | 200+ | Bug fixes and feature implementations |
+| 📦 **Packages Created** | 15+ | Laravel, Vue, and utility packages |
+| ⭐ **Stars Received** | 500+ | Across all repositories |
+| 🍴 **Forks** | 200+ | Active community usage |
+| 📝 **Technical Articles** | 25+ | Shared knowledge and best practices |
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="28" /> &nbsp;Knowledge Sharing
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📝 Technical Blog
+
+**Topics Covered:**
+- System Architecture
+- Cloud Infrastructure
+- Full-Stack Development
+- E-Governance Solutions
+- Performance Optimization
+- Security Best Practices
+
+<a href="https://medium.com/@dolardx">
+  <img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+</td>
+<td width="33%" align="center">
+
+### 🎥 Video Content
+
+**Video Series:**
+- Laravel Tips & Tricks
+- Vue.js Best Practices
+- AWS Deployment Guides
+- Code Review Sessions
+- Architecture Discussions
+- Live Coding Sessions
+
+<a href="https://youtube.com/@morshed0">
+  <img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</td>
+<td width="34%" align="center">
+
+### 💬 Community Support
+
+**Active On:**
+- Stack Overflow Q&A
+- GitHub Discussions
+- Discord Communities
+- LinkedIn Tech Groups
+- Local Meetups
+- Tech Conferences
+
+<a href="https://stackoverflow.com/users/motakabbir-morshed-dolar">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
 
@@ -330,17 +529,39 @@ System Design       █████████████████░░░
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;GitHub Achievements
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=gruvbox" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Motakabbir&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
+
+<div align="center">
+
+### 🏆 Professional Achievements
+
+| Category | Achievement |
+|:---------|:-----------|
+| 🎓 **Education Impact** | Digitized academic operations for 10+ universities |
+| 🏛️ **Government Solutions** | Deployed e-governance platforms in 3 countries |
+| 💼 **Enterprise Systems** | Built 50+ custom enterprise applications |
+| ⭐ **Client Satisfaction** | Maintained 98% client retention rate |
+| 🌟 **Community** | Mentored 25+ junior developers |
+| 🚀 **Innovation** | Pioneered cloud-first architecture in multiple projects |
+
+</div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Let's Connect
 
 <div align="center">
+
+### 🚀 Open for Collaboration & Opportunities
+
+<p><em>Available for consulting, technical leadership roles, and innovative projects in e-governance, enterprise systems, and cloud architecture.</em></p>
+
+<br/>
+
   <p>
     <a href="https://mmorshed.me"><img src="https://img.shields.io/badge/🌐_Portfolio-mmorshed.me-38bdf8?style=for-the-badge" alt="Portfolio"/></a>
     <a href="mailto:dolardx@gmail.com"><img src="https://img.shields.io/badge/📧_Email-dolardx@gmail.com-EA4335?style=for-the-badge" alt="Email"/></a>
