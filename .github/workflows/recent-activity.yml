@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: "Update recent activity section"
-        uses: readme-workflows/recent-activity@v1
+        uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_TOKEN: ${{ secrets.RECENT_ACTIVITY_TOKEN }}
           MAX_LINES: 6
