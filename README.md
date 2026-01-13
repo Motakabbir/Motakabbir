@@ -246,7 +246,7 @@ certifications:
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Motakabbir/Motakabbir/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Motakabbir/Motakabbir/blob/output/github-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
