@@ -14,6 +14,7 @@
   <a href="https://linkedin.com/in/motakabbir-morshed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dolardx@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/Motakabbir16279"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.upwork.com/freelancers/~01865515acfc0df114"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
 </p>
 
 <!-- Profile Stats -->
@@ -130,6 +131,7 @@ System Design       █████████████████░░░
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
@@ -155,11 +157,48 @@ System Design       █████████████████░░░
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔐 Security</b></summary>
+<br/>
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![API Security](https://img.shields.io/badge/API_Security-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🎨 Design Tools</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
 </details>
 
@@ -170,22 +209,22 @@ System Design       █████████████████░░░
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">🏛️ LEAPS - BARMM E-Gov Platform</h3>
+    <h3 align="center">🏛️ LEAPS - Unified Government Services Platform</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
     </p>
-    <p align="center"><strong>Unified government services platform for BARMM, streamlining e-governance with enhanced efficiency and transparency.</strong></p>
+    <p align="center"><strong>A centralized platform for streamlining BARMM government services, enhancing efficiency, transparency, and accessibility for citizens and government officials.</strong></p>
   </td>
   <td width="50%">
-    <h3 align="center">🌍 Gambia Gov Services Platform</h3>
+    <h3 align="center">🌍 Gambia Government Services Platform</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </p>
-    <p align="center"><strong>Centralized platform for Gambia government services with citizen-centric digital transformation.</strong></p>
+    <p align="center"><strong>A centralized platform for streamlining Gambia government services, enhancing efficiency, transparency, and accessibility for citizens and government officials.</strong></p>
   </td>
 </tr>
 <tr>
@@ -196,16 +235,16 @@ System Design       █████████████████░░░
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </p>
-    <p align="center"><strong>Digital automation platform for universities, streamlining student services and administrative processes.</strong></p>
+    <p align="center"><strong>A digital service automation platform for universities, streamlining student services, academic processes, and administrative tasks.</strong></p>
   </td>
   <td width="50%">
-    <h3 align="center">🛒 ReadyeShop E-Commerce</h3>
+    <h3 align="center">🛒 Readyeshop - E-Commerce Platform</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
     </p>
-    <p align="center"><strong>Powerful e-commerce platform enabling businesses to launch and manage online stores seamlessly.</strong></p>
+    <p align="center"><strong>A powerful e-commerce platform enabling entrepreneurs and businesses to launch and manage online stores with ease.</strong></p>
   </td>
 </tr>
 <tr>
@@ -216,7 +255,7 @@ System Design       █████████████████░░░
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     </p>
-    <p align="center"><strong>Comprehensive ERP for ISPs with billing, client management, and payment gateway integrations.</strong></p>
+    <p align="center"><strong>A comprehensive ERP system designed to streamline ISP operations, from billing to client management, integrating key services like SMS and payment gateways.</strong></p>
   </td>
   <td width="50%">
     <h3 align="center">📋 Complaint Management System</h3>
@@ -225,7 +264,7 @@ System Design       █████████████████░░░
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
     </p>
-    <p align="center"><strong>Enterprise complaint management system for tracking, resolving, and analyzing customer issues.</strong></p>
+    <p align="center"><strong>A comprehensive system to manage customer complaints, streamline resolutions, and enhance customer satisfaction.</strong></p>
   </td>
 </tr>
 </table>
@@ -308,6 +347,17 @@ System Design       █████████████████░░░
     <a href="https://twitter.com/Motakabbir16279"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://facebook.com/morshed.dolar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
     <a href="https://discord.gg/dolar0016"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  </p>
+  <p>
+    <a href="https://instagram.com/dolarmotakabbir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://medium.com/@dolardx"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="https://stackoverflow.com/users/motakabbir-morshed-dolar"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+    <a href="https://youtube.com/@morshed0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  </p>
+  <p>
+    <a href="https://www.upwork.com/freelancers/~01865515acfc0df114"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+    <a href="https://www.fiverr.com/dolar_morshed"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+    <a href="https://codepen.io/Motakabbir-Morshed"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
   </p>
 </div>
 
