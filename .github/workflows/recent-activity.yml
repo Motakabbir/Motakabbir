@@ -1,0 +1,21 @@
+name: "Update README with latest activity"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: "Refresh activity feed"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: "Update recent activity section"
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.RECENT_ACTIVITY_TOKEN }}
+          MAX_LINES: 6
