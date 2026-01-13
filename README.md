@@ -273,14 +273,16 @@ System Design       █████████████████░░░
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Motakabbir&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Motakabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-</p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Motakabbir&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=38bdf8&ring=38bdf8&fire=FF6B35&currStreakLabel=38bdf8"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Motakabbir&theme=radical" height="165" width="100%"/>
+  </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Motakabbir&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Motakabbir&layout=compact&theme=radical" height="165" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Motakabbir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FF6B35"/>
